@@ -1,7 +1,8 @@
 -  Hi, I’m Tushar
 -  I am a senior at San Diego State University
 -  I am pursuing Bachelors in Sciences. Majoring in Computer Science
--  I am proficient in Java, HTML,and Python
+-  I am proficient in Java, C++,and Python
+-  Working on HTML and JavaScript
 -  My interests including dancing, cooking, and going on treks
 -  You can reach out to me through tchaudhary3362@sdsu.edu
 
